@@ -1,0 +1,7 @@
+@import './variables';
+@import './sections/top';
+body, html {
+   font-family: 'Montserrat', sans-serif;
+   background-color: #292929;  
+   background-image:url("../../build/img/back.png");
+}
